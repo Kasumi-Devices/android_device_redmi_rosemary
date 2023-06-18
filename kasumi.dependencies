@@ -1,11 +1,11 @@
 [
   {
-    "repository": "windowz414/android_kernel_redmi_rosemary",
+    "repository": "RedmiNote10S/android_kernel_redmi_rosemary",
     "target_path": "kernel/redmi/rosemary",
-    "branch": "android-12-stable"
+    "branch": "lineage-18.1"
   },
   {
-    "repository": "Woomymy/android_vendor_redmi_rosemary",
+    "repository": "RedmiNote10S/android_vendor_redmi_rosemary",
     "target_path": "vendor/redmi/rosemary",
     "branch": "lineage-18.1"
   },
@@ -23,5 +23,10 @@
     "repository": "PotatoProject/device_mediatek_sepolicy",
     "target_path": "device/mediatek/sepolicy",
     "branch": "dumaloo-release"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
   }
 ]
