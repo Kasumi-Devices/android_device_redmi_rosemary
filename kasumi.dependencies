@@ -5,7 +5,7 @@
     "branch": "lineage-18.1"
   },
   {
-    "repository": "RedmiNote10S/android_vendor_redmi_rosemary",
+    "repository": "RedmiNote10S/proprietary_vendor_redmi_rosemary",
     "target_path": "vendor/redmi/rosemary",
     "branch": "lineage-18.1"
   },
